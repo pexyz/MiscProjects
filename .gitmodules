@@ -1,0 +1,6 @@
+[submodule "MiscPython"]
+	path = MiscPython
+	url = https://github.com/pexyz/MiscPython.git
+[submodule "MiscC"]
+	path = MiscC
+	url = https://github.com/pexyz/MiscC.git
